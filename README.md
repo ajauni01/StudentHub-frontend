@@ -1,4 +1,4 @@
-# StudentHub 🚀
+# StudentHub 
 
 All-in-one student platform for flexible gigs, housing, navigation & community.  
 
