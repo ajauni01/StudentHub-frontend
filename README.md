@@ -1,6 +1,6 @@
 # StudentHub 
 
-All-in-one student platform for flexible gigs, housing, navigation & community.  
+All-in-one student platform for flexible gigs, housing & community.  
 
 StudentHub helps college students find irregular, one-off jobs like moving, lawn mowing and snow shovelling, along with off-campus housing, volunteer opportunities, campus navigation, international student resources and friend matching. We connect students with people who need help based on zip code and availability, so they can earn extra cash and build community during their spare time.
 
